@@ -1,0 +1,3 @@
+software automation testing 
+manual testing 
+selenium
